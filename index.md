@@ -21,6 +21,6 @@ Visualized a 4-dimensional dataset in 2 dimensions using PCA analysis on the pop
 <img src="images/iris.png"/>
 
 ---
-[Loan Eligibility Classification](https://github.com/philipyoon/loan_prediction)
+[Loan Eligibility Classification](https://github.com/philipyoon/loan_eligibility_predictor)
 Identify which customers would be eligible for loans given a dataset. Modeled and evaluated performances of Logistic Regression, SVM, and Decision Tree Classifier using 10 fold cross validation scores. 
 <img src="images/loan.png"/>
