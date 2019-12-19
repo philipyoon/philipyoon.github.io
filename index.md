@@ -1,8 +1,8 @@
-## Portfolio
+## Projects
 
 ---
 
-### RStudio
+### Using RStudio
 
 [IMDB Movie Rating Predictor](https://github.com/philipyoon/IMDB_movie_predictions)
 Created a valid, parsimonious, multi-variable, linear regression model that proved to have some capability for predicting movie popularity as indicated by IMDB movie rating score.
@@ -14,7 +14,7 @@ Project using regression analysis to investigate two linear models; both investi
 <img src="images/physician.png"/>
 ---
 
-### Jupyter Notebook
+### Using Jupyter Notebook
 
 [PCA Application: Data Visualization](https://github.com/philipyoon/pca-data-visualization-application)
 Visualized a 4-dimensional dataset in 2 dimensions using PCA analysis on the popular iris dataset.
