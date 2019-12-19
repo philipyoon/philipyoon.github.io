@@ -1,10 +1,6 @@
 ## Projects
 
 
----
-
-
-
 ##### [IMDB Movie Rating Predictor (RStudio)](https://github.com/philipyoon/IMDB_movie_predictions)
 Created a valid, parsimonious, multi-variable, linear regression model that proved to have some capability for predicting movie popularity as indicated by IMDB movie rating score.
 <img src="images/imdb.png"/>
