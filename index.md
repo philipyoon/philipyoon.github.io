@@ -1,17 +1,18 @@
 ## Projects
 
 
-##### [IMDB Movie Rating Predictor (RStudio)](https://github.com/philipyoon/IMDB_movie_predictions)
-Created a valid, parsimonious, multi-variable, linear regression model that proved to have some capability for predicting movie popularity as indicated by IMDB movie rating score.
+##### [Loan Eligibility Classification (Jupyter Notebook, Pycharm, Flask, Heroku)](https://github.com/philipyoon/loan_eligibility_predictor)
+Identifed which customers would be eligible for loans given a dataset. Modeled and evaluated performances of Logistic Regression, SVM, and Decision Tree Classifier using 10 fold cross validation scores. Deployed best model with Flask and Heroku so others can easily access them through an API.
 
-<img src="images/imdb.png"/>
+<img src="images/loan.png"/>
 
 ---
 
-##### [Loan Eligibility Classification (Jupyter Notebook)](https://github.com/philipyoon/loan_eligibility_predictor)
-Identify which customers would be eligible for loans given a dataset. Modeled and evaluated performances of Logistic Regression, SVM, and Decision Tree Classifier using 10 fold cross validation scores. 
 
-<img src="images/loan.png"/>
+##### [IMDB Movie Rating Predictor (RStudio)](https://github.com/philipyoon/IMDB_movie_predictions)
+Created a multiple linear regression model that proved to have some capability for predicting movie popularity as indicated by IMDB movie rating score.
+
+<img src="images/imdb.png"/>
 
 ---
 
