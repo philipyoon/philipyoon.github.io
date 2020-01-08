@@ -2,7 +2,7 @@
 
 
 ##### [Loan Eligibility Classification (Jupyter Notebook, Pycharm, Flask, Heroku)](https://github.com/philipyoon/loan_eligibility_predictor)
-Identifed which customers would be eligible for loans given a dataset. Modeled and evaluated performances of Logistic Regression, SVM, and Decision Tree Classifier using 10 fold cross validation scores. Deployed best model with Flask and Heroku so others can easily access them through an API.
+Identifed which customers would be eligible for loans given a dataset. Modeled and evaluated performances of Logistic Regression, SVM, and Decision Tree Classifier using 10 fold cross validation scores. Deployed best model with Flask and Heroku so others can easily access them through an API. Below is the model performance using F1 performance metrics.
 
 <img src="images/loan.png"/>
 
