@@ -3,6 +3,7 @@
 
 ##### [Time Series Analysis on Gasoline Demand (RStudio)](https://github.com/philipyoon/gas-demand-analysis)
 Created a SARIMA model to forecast Ontario's gasoline demand using time series data. After a boxcox transformation and differencing at lags 1 and 12, the stationary data’s ACF and PACF were analyzed to estimate SARIMA models for forecasting. A stationary and invertible model was then chosen using MLE estimation of parameters, AICc criterion, and the principle of parsimony, which was then used to forecast Ontario's gasoline demand. The model did well; however, diagnostic checking indicated the results of said techniques were not perfect.
+
 <img src="images/gas.png"/>
 
 ---
