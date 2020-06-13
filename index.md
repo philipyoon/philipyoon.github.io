@@ -10,6 +10,11 @@ I use Altair based on Vega-lite for visualzations and ordered logistic regressio
 
 ---
 
+##### [Comparing Classifiers to Determine Diabetes Diagnosis (May 2020)](https://github.com/philipyoon/diabetes-classifier)
+Based on certain diagnostic measurements like BMI, blood pressure, and glucose levels, would one be able to predict whether an individual has diabetes or not? Being able to identify and predict this disease would be the first step towards stopping its progression and recommending preventative measures for those of highest risk. In this project I test classification methods of SVM with linear and radial kernels, logistic regression, and kNN to predict diabetes diagnosis based on data from the National Institute of Diabetes and Digestive and Kidney Diseases. Final model resulted in logistic regression fit with probability threshold 0.29 and test accuracy of 71.5596% on a 70/20 train test split.
+
+<img src="images/diabetes.png"/>
+
 ##### [Time Series Analysis on Gasoline Demand (Dec 2019)](https://github.com/philipyoon/gas-demand-analysis)
 Created a SARIMA model to forecast Ontario's gasoline demand using time series data. After a boxcox transformation and differencing at lags 1 and 12, the stationary data’s ACF and PACF were analyzed to estimate SARIMA models for forecasting. A stationary and invertible model was then chosen using MLE estimation of parameters, AICc criterion, and the principle of parsimony, which was then used to forecast Ontario's gasoline demand. The model did well; however, diagnostic checking indicated the results of said techniques were not perfect.
 
