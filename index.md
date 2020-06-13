@@ -1,6 +1,15 @@
 ## Projects
 
 
+##### [Identifying App Features contributing to High Install Count (Jupyter Notebook, Altair, mord, sci-kit learn)](https://github.com/philipyoon/google-playstore-analysis)
+When planning to list a mobile application, there is already a list of factors one must consider in order to create a successful app. What kind of app should I make? Does rating or install size even matter to increase the number of users I attract? In this project I identify the features that contribute to a high install count based on web-scraped data from the [Google PlayStore](https://www.kaggle.com/lava18/google-play-store-apps). 
+
+I use Altair based on Vega-lite for visualzations and ordered logistic regression from the mord package as the classification model. 5-fold cv leads to a classifier with 63.35% accuracy.
+
+<img src="images/category.png"/>
+
+---
+
 ##### [Time Series Analysis on Gasoline Demand (RStudio)](https://github.com/philipyoon/gas-demand-analysis)
 Created a SARIMA model to forecast Ontario's gasoline demand using time series data. After a boxcox transformation and differencing at lags 1 and 12, the stationary data’s ACF and PACF were analyzed to estimate SARIMA models for forecasting. A stationary and invertible model was then chosen using MLE estimation of parameters, AICc criterion, and the principle of parsimony, which was then used to forecast Ontario's gasoline demand. The model did well; however, diagnostic checking indicated the results of said techniques were not perfect.
 
