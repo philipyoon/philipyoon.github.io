@@ -4,7 +4,7 @@ logo: "/images/resized_profile.png?raw=true" # photo here
 
 description: > # your text below (remove <br> elements if you don't need line breaks)
   <br><br>
-  My name is Philip and I am a 3rd year studying Statistics and Data Science at UCSB. I'm currently focused on learning more about scaling data pipelines. 
+  My name is Philip and I am a 3rd year studying Statistics and Data Science at UCSB. I'm currently focused on writing ETL pipelines and making a blog web app with Flask. 
   <br><br>
   <a href="https://www.linkedin.com/in/mpy/">View My LinkedIn Profile</a> 
   
