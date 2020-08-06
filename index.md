@@ -1,12 +1,15 @@
 ## Projects
 
 ##### [Microblog Web App with Flask (July 2020)](https://github.com/philipyoon/microblog)
-On a microblog, users can post short posts (think twitter) and follow other users. The structure of the app is modular using Flask's blueprint and template framework and is hosted by Heroku. Database uses SQLAlchemy for object-relational mapping of PostgreSQL DBMS. Passwords are stored securely with salted hashes using werkzeug library, and password reset emails use JSON web tokens for validation. Full-text search for posts is supported using Elasticsearch service. Front-end was done using HTML and CSS framework Bootstrap templates. 
+On this web app, users can post short posts (think twitter) for their followers or see everyone's posts on the Explore page. The structure of the app is modular using Flask's blueprint and template framework and is hosted by Heroku. Database uses SQLAlchemy for object-relational mapping of PostgreSQL DBMS. Passwords are stored securely with salted hashes using werkzeug library, and password reset emails use JSON web tokens for validation. Full-text search for posts is supported using Elasticsearch service. Front-end was done using HTML and CSS framework Bootstrap templates. Planning to include deleting, upvoting, and commenting functionality.
+
+[Link to Microblog](https://philips-microblog.herokuapp.com)
 
 <img src="images/micro1.png"/>
 
 <img src="images/micro2.png"/>
 
+--- 
 
 ##### [Identifying App Features contributing to High Install Count (Jun 2020)](https://github.com/philipyoon/google-playstore-analysis)
 When planning to list a mobile application, there is already a list of factors one must consider in order to create a successful app. What kind of app should I make? Does rating or install size even matter to increase the number of users I attract? In this project I identify the features that contribute to a high install count based on web-scraped data from the [Google PlayStore](https://www.kaggle.com/lava18/google-play-store-apps). 
@@ -21,6 +24,8 @@ I use Altair based on Vega-lite for visualzations and ordered logistic regressio
 Based on certain diagnostic measurements like BMI, blood pressure, and glucose levels, would one be able to predict whether an individual has diabetes or not? Being able to identify and predict this disease would be the first step towards stopping its progression and recommending preventative measures for those of highest risk. In this project I test classification methods of SVM with linear and radial kernels, logistic regression, and kNN to predict diabetes diagnosis based on data from the National Institute of Diabetes and Digestive and Kidney Diseases. Final model resulted in logistic regression fit with probability threshold 0.29 and test accuracy of 71.5596% on a 70/20 train test split.
 
 <img src="images/diabetes.png"/>
+
+---
 
 ##### [Time Series Analysis on Gasoline Demand (Dec 2019)](https://github.com/philipyoon/gas-demand-analysis)
 Created a SARIMA model to forecast Ontario's gasoline demand using time series data. After a boxcox transformation and differencing at lags 1 and 12, the stationary data’s ACF and PACF were analyzed to estimate SARIMA models for forecasting. A stationary and invertible model was then chosen using MLE estimation of parameters, AICc criterion, and the principle of parsimony, which was then used to forecast Ontario's gasoline demand. The model did well; however, diagnostic checking indicated the results of said techniques were not perfect.
