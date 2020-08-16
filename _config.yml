@@ -8,7 +8,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   build and deploy basic web apps using Flask, trying to get an overview of backend web development predicaments. 
   Additionally, I've been working on implementing a dashboard showing some (yet to be determined) interesting statistics on said web app 
   to understand the process of pipelining data to a deployed application. Ultimately, this summer I want to integrate my data and 
-  development projects with the goal of learning as much as I can from what will inevitably be a "things aren't working" experience.
+  development projects with the goal of learning from what will inevitably be a "things aren't working" experience.
   <a href="https://www.linkedin.com/in/mpy/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
