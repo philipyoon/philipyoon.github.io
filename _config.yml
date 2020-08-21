@@ -4,11 +4,9 @@ logo: "/images/resized_profile.png?raw=true" # photo here
 
 description: > # your text below (remove <br> elements if you don't need line breaks)
   <br><br>
-  Welcome to my ramblings regarding personal projects I'm working on. This summer, I've been learning to
-  build and deploy basic web apps using Flask, trying to get an overview of backend web development predicaments. 
-  Additionally, I've been working on implementing a dashboard showing some (yet to be determined) interesting statistics on said web app 
-  to understand the process of pipelining data to a deployed application. Ultimately, this summer I want to integrate my data and 
-  development projects with the goal of learning from what will inevitably be a "things aren't working" experience.<br>
+  I'm currently a 4th year at the University of California, Santa Barbara majoring in Statistics and Data Science. This summer I worked on building
+  web apps using Flask and am currently focusing on understanding data pipelines and ETL/ELT processes. 
+  <br>
   
   <a href="https://www.linkedin.com/in/mpy/">View My LinkedIn Profile</a> 
   
