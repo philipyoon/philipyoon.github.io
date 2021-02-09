@@ -1,6 +1,6 @@
 ## Projects
 
-##### [Hotel Cancellation Prediction](January 2021)](https://github.com/philipyoon/hotel_cancellation_prediction)
+##### [Hotel Cancellation Prediction(January 2021)](https://github.com/philipyoon/hotel_cancellation_prediction)
 
 
 <img src="images/hotel_viz.png"/>
