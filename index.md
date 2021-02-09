@@ -1,5 +1,12 @@
 ## Projects
 
+##### [Hotel Cancellation Prediction](January 2021)](https://github.com/philipyoon/hotel_cancellation_prediction)
+
+
+<img src="images/hotel_viz.png"/>
+
+<img src="images/hotel_models.png"/>
+
 ##### [Microblog Web App with Flask (July 2020)](https://github.com/philipyoon/microblog)
 On this web app, users can post short posts (think twitter) for their followers or see everyone's posts on the Explore page. The structure of the app is modular using Flask's blueprint and template framework and is hosted by Heroku. Database uses SQLAlchemy for object-relational mapping of PostgreSQL DBMS. Passwords are stored securely with salted hashes using werkzeug library, and password reset emails use JSON web tokens for validation. Full-text search for posts is supported using Elasticsearch service. Front-end was done using HTML and CSS framework Bootstrap templates(which conveniently supports mobile pages). Planning to include deleting, upvoting, and commenting functionality.
 
