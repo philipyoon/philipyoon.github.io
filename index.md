@@ -1,7 +1,7 @@
 ## Projects
 
-##### [Hotel Cancellation Prediction(January 2021)](https://github.com/philipyoon/hotel_cancellation_prediction)
-
+##### [Hotel Cancellation Prediction (January 2021)](https://github.com/philipyoon/hotel_cancellation_prediction)
+During popular seasons, predicting customer booking cancellations can ensure hotels accomodate the maximum number of customers. In this project I investigate the circumstances around customer cancellation and aim to find a best classification method to maximize classification accuracy of cancelled or not. I use Spark's Python API, PySpark, to utilize it's distributed nature for faster querying and transformations. The preprocessing step addressed missing and irrational values, outliers, column redundancy, one-hot and label encoding, and feature generation. After a 70/30 train-test split, I fit and evaluated a logistic regression model (testing with/without intercept and tuning iterations), a random forest model (tuning number of trees and max depth), and an SVM model (testing with/without intercept and tuning iterations), finally concluding the logistic regression approach best in terms of Accuracy, Recall, and AUC. See the paper in the project link for the full report.
 
 <img src="images/hotel_viz.png"/>
 
